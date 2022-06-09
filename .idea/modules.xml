@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/After-end/After-end.iml" filepath="$PROJECT_DIR$/After-end/After-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CheckCovidWhpu.iml" filepath="$PROJECT_DIR$/CheckCovidWhpu.iml" />
+    </modules>
+  </component>
+</project>
